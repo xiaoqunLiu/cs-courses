@@ -1,0 +1,12 @@
+# ninja log v5
+1	778	7248301232521782	CMakeFiles/Codes_12.dir/Codes_12/usett0.cpp.obj	517ef1d95ed9e8ac
+16	784	7248301232551813	CMakeFiles/Codes_12.dir/Codes_12/tabtenn0.cpp.obj	c1186380fcd72b4
+807	1079	7248329101778855	Codes_12.exe	8dc22b8fdc7e543e
+6	676	7248354879285926	CMakeFiles/ex.dir/Codes_12/ex.cpp.obj	9cb7209fd0681c16
+6	819	7248310035676485	CMakeFiles/Codes_12.dir/Codes_12/usett1.cpp.obj	45188cfa0cbec012
+19	827	7248310035746588	CMakeFiles/Codes_12.dir/Codes_12/tabtenn1.cpp.obj	75b33e8b5ddda14e
+0	756	7248329098608678	CMakeFiles/Codes_12.dir/Codes_12/usebrass1.cpp.obj	f29478aaadfb597d
+14	807	7248329099108680	CMakeFiles/Codes_12.dir/Codes_12/brass.cpp.obj	7b7b864c0ecf297f
+677	923	7248354881671527	ex.exe	a5dc17abd1234f3
+7	2001	7260447471797539	CMakeFiles/ex.dir/Codes_12/ex.cpp.obj	9cb7209fd0681c16
+2002	2948	7260447481171207	ex.exe	a5dc17abd1234f3

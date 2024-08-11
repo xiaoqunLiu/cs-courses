@@ -1,0 +1,4 @@
+D:/My_university/temp/CS205Cpp/Lec/Codes 12/cmake-build-debug/CMakeFiles/Codes_12.dir
+D:/My_university/temp/CS205Cpp/Lec/Codes 12/cmake-build-debug/CMakeFiles/ex.dir
+D:/My_university/temp/CS205Cpp/Lec/Codes 12/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My_university/temp/CS205Cpp/Lec/Codes 12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

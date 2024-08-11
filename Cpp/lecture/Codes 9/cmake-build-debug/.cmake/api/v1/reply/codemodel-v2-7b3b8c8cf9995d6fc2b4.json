@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Codes_9",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "co::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-co-Debug-9052a38592d2c6a0f045.json",
+					"name" : "co",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-code-Debug-b279cdfc98c92c06aec5.json",
+					"name" : "code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "code1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-code1-Debug-2a059b4aa11866b2d1dc.json",
+					"name" : "code1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "code2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-code2-Debug-945197b0b0fa770ee538.json",
+					"name" : "code2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "coo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-coo-Debug-f789155a3e9b042c4ca4.json",
+					"name" : "coo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/My_university/temp/CS205Cpp/Lec/Codes 9/cmake-build-debug",
+		"source" : "D:/My_university/temp/CS205Cpp/Lec/Codes 9"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
